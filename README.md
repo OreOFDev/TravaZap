@@ -7,5 +7,5 @@ S ou N
 
 ai copia ou nao
 
-eito por [OreOFDev](https://github.com/OreOFDev)
+feito por [OreOFDev](https://github.com/OreOFDev)
 :D
